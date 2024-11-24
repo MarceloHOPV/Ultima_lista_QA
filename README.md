@@ -2,7 +2,7 @@
 Lista de exercícios do lab de QA do inatel
 
 1. Como executar os testes:
-- Importe o arquivo de coleção do Postman (.json).
+- Importe o arquivo de coleção do Postman `Lista API.postman_collection(.json)`.
 - Configure o ambiente no Postman.
 - Execute os testes e analise os resultados.
 
