@@ -36,16 +36,9 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "https://jsonplaceholder.typicode.com/posts/1",
-							"protocol": "https",
+							"raw": "{{URL}}1",
 							"host": [
-								"jsonplaceholder",
-								"typicode",
-								"com"
-							],
-							"path": [
-								"posts",
-								"1"
+								"{{URL}}1"
 							]
 						}
 					},
@@ -80,15 +73,9 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "https://jsonplaceholder.typicode.com/posts",
-							"protocol": "https",
+							"raw": "{{URL}}",
 							"host": [
-								"jsonplaceholder",
-								"typicode",
-								"com"
-							],
-							"path": [
-								"posts"
+								"{{URL}}"
 							]
 						}
 					},
@@ -121,16 +108,9 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "https://jsonplaceholder.typicode.com/posts/abc",
-							"protocol": "https",
+							"raw": "{{URL}}abc",
 							"host": [
-								"jsonplaceholder",
-								"typicode",
-								"com"
-							],
-							"path": [
-								"posts",
-								"abc"
+								"{{URL}}abc"
 							]
 						}
 					},
@@ -176,15 +156,9 @@
 							}
 						},
 						"url": {
-							"raw": "https://jsonplaceholder.typicode.com/posts",
-							"protocol": "https",
+							"raw": "{{URL}}",
 							"host": [
-								"jsonplaceholder",
-								"typicode",
-								"com"
-							],
-							"path": [
-								"posts"
+								"{{URL}}"
 							]
 						}
 					},
@@ -231,16 +205,9 @@
 							}
 						},
 						"url": {
-							"raw": "https://jsonplaceholder.typicode.com/posts/999999",
-							"protocol": "https",
+							"raw": "{{URL}}999999",
 							"host": [
-								"jsonplaceholder",
-								"typicode",
-								"com"
-							],
-							"path": [
-								"posts",
-								"999999"
+								"{{URL}}999999"
 							]
 						}
 					},
@@ -275,16 +242,9 @@
 						"method": "DELETE",
 						"header": [],
 						"url": {
-							"raw": "https://jsonplaceholder.typicode.com/posts/1",
-							"protocol": "https",
+							"raw": "{{URL}}1",
 							"host": [
-								"jsonplaceholder",
-								"typicode",
-								"com"
-							],
-							"path": [
-								"posts",
-								"1"
+								"{{URL}}1"
 							]
 						}
 					},
